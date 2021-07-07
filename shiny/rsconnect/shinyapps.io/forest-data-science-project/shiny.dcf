@@ -1,0 +1,11 @@
+name: shiny
+title:
+username:
+account: forest-data-science-project
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4356326
+bundleId: 4793308
+url: https://forest-data-science-project.shinyapps.io/shiny/
+when: 1625602480.61478
+lastSyncTime: 1625602480.6148
